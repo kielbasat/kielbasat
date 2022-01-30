@@ -24,7 +24,7 @@ public class Operators {
         firstNumber *= secondNumber;
         System.out.println("after multiplication: " + firstNumber);
         firstDouble /= secondDouble;
-        System.out.println("after division: " + firstNumber);
+        System.out.println("after division: " + firstDouble);
         firstNumber %= secondNumber;
         System.out.println("after modulo: " + firstNumber);
     }
