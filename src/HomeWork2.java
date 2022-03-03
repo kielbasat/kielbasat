@@ -9,8 +9,10 @@ public class HomeWork2 {
 
         if (ageUserInput >= 18) {
             System.out.println("It's legal to drink alcohol in Poland");
+        } else if (ageUserInput < 0 ) {
+            System.out.println("Incorrect age value provided!");
         } else {
-            System.out.println("It's NOT legal to drink alcohol in Poland");
-        }
+        System.out.println("It's NOT legal to drink alcohol in Poland");
+    }
     }
 }
