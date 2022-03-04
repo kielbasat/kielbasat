@@ -18,6 +18,19 @@ public class Loops {
             System.out.println("While loop k value is: " + k);
             k++;
         }
+        for (int i = 0; i < 15; i += 5) {
+            System.out.println(i);
+        }
+        int i = 0;
+        while (i == 0) {
+            System.out.println("Value of i = " + i + " should be equal 0.");
+            i++;
+        }
+        do {
+            System.out.println(i);
+            i++;
+        } while (i <= 10);
+
     }
 
 }
