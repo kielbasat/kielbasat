@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kielbasat
 - 👀 I’m interested in test automation
-- 🌱 I’m currently learning Java + Selenium WebDriver
+- 🌱 I’m currently learning Java + Selenium, Playwright
 - 📫 How to reach me: t.kielbasa(at)tlen.pl; https://www.linkedin.com/in/tomasz-kie%C5%82basa/
 
 <!---
